@@ -3,10 +3,10 @@ Procesamiento Distribuido de Datos
 Mayo 2025
 
 Integrantes:
--Raul Echverry
--Arlex Pino
--Esteban Ordoñez
--Fabian Salazar Figueroa
+- Raul Echverry
+- Arlex Pino
+- Esteban Ordoñez
+- Fabian Salazar Figueroa
 
 # API de Predicción del Titanic
 
