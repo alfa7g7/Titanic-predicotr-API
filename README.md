@@ -1,3 +1,13 @@
+# Universidad ICESI - Maestría en Ciencia de Datos
+Procesamiento Distribuido de Datos
+Mayo 2025
+
+Integrantes:
+-Raul Echverry
+-Arlex Pino
+-Esteban Ordoñez
+-Fabian Salazar Figueroa
+
 # API de Predicción del Titanic
 
 Este proyecto expone un modelo de predicción de supervivencia en el Titanic como un servicio API utilizando FastAPI y Uvicorn, containerizado con Docker.
